@@ -15,7 +15,7 @@ export default function Hero() {
         .from("[data-social]", { y: 20, opacity: 0, stagger: 0.08, duration: 0.5 }, "-=0.4");
 
       // floating photo + glow
-      gsap.to("[data-photo]", { y: -14, duration: 2.6, repeat: -1, yoyo: true, ease: "sine.inOut", delay: 1.2 });
+      gsap.to("[data-photo]", { y: -10, duration: 2.6, repeat: -1, yoyo: true, ease: "sine.inOut", delay: 1.2 });
       gsap.to("[data-ring]", { rotate: 360, duration: 18, repeat: -1, ease: "none" });
 
       // rotating role text

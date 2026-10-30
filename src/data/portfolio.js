@@ -86,7 +86,7 @@ export const education = [
   {
     degree: "B.Sc. in Computer Science & Engineering",
     institute: "Green University Bangladesh",
-    period: "2026 ",
+    period: "2025 - present ",
     detail:
       "Relevant coursework: Data Structures, Algorithms, Database Systems, Web Technologies, Software Engineering.",
   },
